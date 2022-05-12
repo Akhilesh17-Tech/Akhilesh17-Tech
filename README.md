@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Codieal](https://github.com/Akhilesh17-Tech/codeial)
 
-- 🌱 I’m currently learning **Node JS and React JS**
+- 🌱 I’m currently learning more about **Node JS and React JS**
 
 - 💬 Ask me about **JavaScript, React JS, Node JS**
 
