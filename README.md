@@ -1,10 +1,10 @@
 # Hi there 👋, I am Akhilesh Kushwah
 
-> Hardworking and Passionate developer. Love building project ranging from frontend all the way to backend
+> Hardworking and Passionate MERN stack developer. Love building projects ranging from frontend all the way to backend
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=navnathgunjal07&label=Profile%20views&color=0e75b6&style=flat" alt="navnathgunjal07" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Akhilesh17-Tech&label=Profile%20views&color=0e75b6&style=flat" alt="Akhilesh17-Tech" /> </p>
 
-- 🔭 I’m currently working on [Codieal](https://github.com/NavnathGunjal07/codeial)
+- 🔭 I’m currently working on [Codieal](https://github.com/Akhilesh17-Tech/codeial)
 
 - 🌱 I’m currently learning **Node JS,React JS,VUE**
 
